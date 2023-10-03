@@ -1,0 +1,2 @@
+﻿  Change_the_language_layout.cpp
+C:\Users\1\Desktop\C++\Change_the_language_layout\C++\Change_the_language_layout\Change_the_language_layout.cpp(7,51): error C2065: GUID_DEVCLASS_HIDCLASS: необъявленный идентификатор
